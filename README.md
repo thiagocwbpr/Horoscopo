@@ -1,6 +1,6 @@
-# Horoscopo
+# Saiba seu Signo!
 
-Programa que informa o Horoscopo da pessoa, baseado no dia e mês de nascimento!
+Programa que informa o Signo da pessoa, baseado no dia e mês de nascimento!
 
 Esse programa pode ser implementado com mais funções, como o horoscopo do dia ou do mês! o ceu é o limite!!! 
 
